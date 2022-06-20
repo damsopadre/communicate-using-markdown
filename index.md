@@ -7,3 +7,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] Make a github account
+- [ ] Get an internship
+- [ ] Complete SIP
